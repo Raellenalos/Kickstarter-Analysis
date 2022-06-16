@@ -7,7 +7,7 @@ Assist client to successfully plan crowdfunding campaign to fund her upcoming pl
 Analyze crowdfunding data to determine the effects of campaign launch dates; goals and other factors on a campaign’s success or failure.
 
 ## Analysis and Challenges
-1.   Analyzed the percentage of campaigns funding to determine how close a campaign came to reaching or exceeding their funding goal. 
+1. Analyzed the percentage of campaigns funding to determine how close a campaign came to reaching or exceeding their funding goal. 
 2.	Determine the historical contribution to campaigns by looking at the average donations
 3.	Split campaign categories into Parent and sub-categories to have a more focused data group
 4.	Created pivot tables to display outcomes of each of the fundraising categories and how well they faired 
@@ -17,10 +17,14 @@ Analyze crowdfunding data to determine the effects of campaign launch dates; goa
 
 
 ### Analysis of Outcomes Based on Launch Date
-* Analyzed the outcomes of theater campaigns based on their launch date by graphing theater outcomes vs Launch date to give a view of monthly successful vs failed and canceled campaigns. 
+* Analyzed the outcomes of theater campaigns based on their launch date by graphing theater outcomes vs Launch date to give a view of monthly successful vs failed and canceled campaigns. 	
+
+ ![image](https://github.com/Raellenalos/Kickstarter-Analysis/blob/main/Ressources/Theater_Outcomes_vs_Launch.png?raw=true)
 
 ### Analysis of Outcomes Based on Goals
 * Analyzed the outcome of campaigns based on the percentage of success or failure of their goals.
+
+![image](https://github.com/Raellenalos/Kickstarter-Analysis/blob/main/Ressources/Outcomes_vs_Goals.png?raw=true)
 
 ### Challenges and Difficulties Encountered
  - May yielded the most successful and the most failed campaigns. Simply because, May was the busiest campaign months compared to the other months with June as a close second. Comparing May’s success/failure rate to other months that had less campaigns is not a good indication of the success/ failure ratio. 
@@ -64,6 +68,5 @@ Analyze crowdfunding data to determine the effects of campaign launch dates; goa
   |90 or more days|
 
 - Comparing the rate of success/ failure of months that are closer in total of campaigns launch would be a more accurate analysis. 
- 
-- However, January, June, July and October all had roughly the same number of failed campaigns launched. This can be determined by examining the points along the trend lines of the chart. As you hover over each point with your mouse pointer, a tooltip appears with the corresponding information.
+
 
