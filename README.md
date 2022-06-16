@@ -20,6 +20,7 @@ Analyze crowdfunding data to determine the effects of campaign launch dates; goa
 * Analyzed the outcomes of theater campaigns based on their launch date by graphing theater outcomes vs Launch date to give a view of monthly successful vs failed and canceled campaigns. 
 
 ### Analysis of Outcomes Based on Goals
+* Analyzed the outcome of campaigns based on the percentage of success or failure of their goals.
 
 ### Challenges and Difficulties Encountered
  - May yielded the most successful and the most failed campaigns. Simply because, May was the busiest campaign months compared to the other months with June as a close second. Comparing May’s success/failure rate to other months that had less campaigns is not a good indication of the success/ failure ratio. 
